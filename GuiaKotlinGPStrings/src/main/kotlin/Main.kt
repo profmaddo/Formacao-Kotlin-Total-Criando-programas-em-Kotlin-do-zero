@@ -11,7 +11,8 @@ fun main() {
         """  ---
                      KOTLIN CURSO $preco
            DE
-       Programação *** \n--- 2023"""
+           
+       Programação *** \n--- 2023 """
 
     val texto : String = "Formação " + Kotlin + " Total - Guia de Programação"
 

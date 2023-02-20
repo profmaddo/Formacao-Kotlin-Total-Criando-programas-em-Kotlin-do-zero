@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54578f6a-f516-4b5f-b861-a1619988e6cf" name="Changes" comment="">
+    <list default="true" id="54578f6a-f516-4b5f-b861-a1619988e6cf" name="Changes" comment="Kotlin GuiaGP - Char unicode">
       <change afterPath="$PROJECT_DIR$/../.idea/Formacao-Kotlin-Total-Criando-programas-em-Kotlin-do-zero.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EstiloKotlinDeProgramacao/EstiloKotlinDeProgramacao.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../GuiaKotlinGPDeclararTipoDeDado/GuiaKotlinGPDeclararTipoDeDado.iml" afterDir="false" />
@@ -46,11 +46,34 @@
       <option name="presentableId" value="Default" />
       <updated>1676904906102</updated>
       <workItem from="1676904907142" duration="568000" />
-      <workItem from="1676905806056" duration="576000" />
+      <workItem from="1676905806056" duration="766000" />
     </task>
+    <task id="LOCAL-00001" summary="Kotlin GuiaGP - Char unicode">
+      <created>1676906552054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676906552054</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Kotlin GuiaGP - Char unicode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin GuiaGP - Char unicode" />
   </component>
 </project>
